@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotWhatsYT", "BotWhatsYT\BotWhatsYT.csproj", "{EC0F71BE-0C8C-4116-A4B7-2C09A08C1B89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0F71BE-0C8C-4116-A4B7-2C09A08C1B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0F71BE-0C8C-4116-A4B7-2C09A08C1B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0F71BE-0C8C-4116-A4B7-2C09A08C1B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0F71BE-0C8C-4116-A4B7-2C09A08C1B89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47404C41-F1EA-4D3B-8077-2457E2957D6D}
+	EndGlobalSection
+EndGlobal
